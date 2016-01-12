@@ -1,0 +1,22 @@
+.aw-logo {
+    width: 130px;
+    margin-right: 20px;
+}
+
+.aw-logo a {
+    width: 130px;
+    height: 35px;
+    background-image: url('img/logo.png');
+    background-position: left center;
+    background-size: 100%;
+}
+
+.aw-login-box .logo {
+    width: 100%;
+    background-image: url('img/login_logo.png');
+    background-size: 100%;
+}
+
+.aw-login-box .logo a {
+    width: 100%;
+}
